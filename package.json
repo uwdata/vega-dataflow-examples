@@ -33,7 +33,7 @@
     "vega-util": "1"
   },
   "devDependencies": {
-    "rollup": "0.34",
-    "rollup-plugin-node-resolve": "1"
+    "rollup": "^0.67.3",
+    "rollup-plugin-node-resolve": "^3.4.0"
   }
 }
